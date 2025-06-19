@@ -1,11 +1,11 @@
 
-import styles from'./App.css'
+import './App.css'
 
 function App() {
 
 
   return (
-    <div className={styles.App}>
+    <div >
       Hello World!
     </div>
   )
