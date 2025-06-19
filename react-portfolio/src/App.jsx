@@ -1,5 +1,5 @@
 
-import styles from'./App.module.css'
+import styles from'./App.css'
 
 function App() {
 
