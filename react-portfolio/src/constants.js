@@ -136,9 +136,9 @@ export const SkillsInfo = [
       id: 0,
       title: "Restaurant Aplication",
       description:
-        "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
+        "A full-featured MERN Stack-based Restaurant Web App, Mobile-friendly and optimized interface using Tailwind CSS and React.",
       image: restaurantApp,
-      tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
+      tags: ["HTML", "CSS", "JavaScript", "React JS", "Axios","Node.js", "Express.js","MongoDB"],
       github: "https://github.com/Aman-Ptl/Restaurant-app",
       webapp: "https://vercel.com/aman-patel-s-projects/restaurant-app",
     },
@@ -146,9 +146,9 @@ export const SkillsInfo = [
       id: 1,
       title: "Gym application",
       description:
-        "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
+        "A fully responsive web-based Gym Application System using modern React & Tailwind CSS for a responsive experience across all devices.",
       image: gymApp,
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
+      tags: ["React JS", "Node.js", "Express", "HTML", "CSS", "JavaScript","react-router-dom","vite","react-toastify","lucide-react","Axios","cors","dotenv","nodemailer"],
       github: "https://github.com/Aman-Ptl/GYM_Application",
       webapp: "https://vercel.com/aman-patel-s-projects/gym-application",
     },
