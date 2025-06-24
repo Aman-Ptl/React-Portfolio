@@ -156,7 +156,7 @@ export const SkillsInfo = [
       id: 2,
       title: "React frontend page",
       description:
-        "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
+        "Developed a Frontend page, Implemented reusable React components to build a scalable frontend structure while maintaining styling consistency using pure CSS.",
       image: frontend,
       tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/Aman-Ptl/frontend-project",
