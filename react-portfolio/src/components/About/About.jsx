@@ -25,7 +25,7 @@ const About = () => {
             <span className="text-white">I am a </span>
             <Typewriter
               text={[
-                'MERNstack Developer',
+                'MERN stack Developer',
                 'UI/UX Designer',
                 'Coder',
               ]}
@@ -48,7 +48,7 @@ const About = () => {
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com"
+            href="https://drive.google.com/file/d/1dTAbIWTPKcShWwDSG12jp6mAv8HNRX3U/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
@@ -57,7 +57,7 @@ const About = () => {
               boxShadow: '0 0 2px #8245ec, 0 0 2px #8245ec, 0 0 40px #8245ec',
             }}
           >
-            DOWNLOAD CV
+            DOWNLOAD RESUME
           </a>
         </div>
         {/* Right Side */}
