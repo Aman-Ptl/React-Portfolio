@@ -124,7 +124,7 @@ export const SkillsInfo = [
       image: restaurantApp,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "Axios","Node.js", "Express.js","MongoDB"],
       github: "https://github.com/Aman-Ptl/Restaurant-app",
-      webapp: "https://vercel.com/aman-patel-s-projects/restaurant-app",
+      webapp: "https://restaurant-app-three-pi.vercel.app",
     },
     {
       id: 1,
@@ -134,7 +134,7 @@ export const SkillsInfo = [
       image: gymApp,
       tags: ["React JS", "Node.js", "Express", "HTML", "CSS", "JavaScript","react-router-dom","vite","react-toastify","lucide-react","Axios","cors","dotenv","nodemailer"],
       github: "https://github.com/Aman-Ptl/GYM_Application",
-      webapp: "https://vercel.com/aman-patel-s-projects/gym-application",
+      webapp: "https://gym-application-seven.vercel.app",
     },
     {
       id: 2,
@@ -144,6 +144,6 @@ export const SkillsInfo = [
       image: frontend,
       tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/Aman-Ptl/frontend-project",
-      webapp: "https://vercel.com/aman-patel-s-projects/frontend-project",
+      webapp: "https://frontend-project-sigma-bay.vercel.app",
     },
   ];
